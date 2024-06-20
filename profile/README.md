@@ -4,7 +4,7 @@
 
 ### 🔗 Creating a decentralized 3D mesh of the world on the Solana blockchain 🌐
 
-MeshMap Labs is building an open and decentralized 3D map of the world. Check out some of our current projects:
+We are building several ongoing projects:
 
 - MeshMap - A network of mappers, creators, players, hosts, and sponsors that fulfill different roles in order to build the 3D map and earn onchain rewards.
 - [MeshMap web app](https://meshmap.com/upload) - A Solana app for scanning, geotagging, minting, and mapping a decentralized 3D mesh of the world (coming soon!)
