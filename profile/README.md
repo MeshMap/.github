@@ -6,9 +6,9 @@
 
 We are building several ongoing projects:
 
-- [MeshMap](https://meshmap.com) - A network of mappers, creators, players, hosts, and sponsors that contribute to the 3D map and receive onchain rewards.
-- MeshMap web app - An app for building a decentralized 3D map of the world (coming soon!)
-- [City Champ](https://docs.meshmap.com/games/city-champ) - A cross-reality (XR) game for Meta Quest 2/3/Pro and Magic Leap 2.
+- [MeshMap](https://www.meshmap.com) - A network of mappers, creators, players, hosts, and sponsors that contribute to the 3D map and receive onchain rewards.
+- [MeshMap web app](https://app.meshmap.com) - An app for building a decentralized 3D map of the world (coming soon!)
+- [MeshMap Experiences](https://www.meshmap.com/experiences/) - A collection of cross-reality (XR) games and in-person tours for Meta Quest 2/3/Pro and Magic Leap 2.
 
 Are you already part of our mapping network? Yes? Okay, you rock! 🎸 If not, we can help you get started! Learn more about [how to contribute](https://docs.meshmap.com).
 
